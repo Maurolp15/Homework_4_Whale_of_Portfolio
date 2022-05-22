@@ -1,4 +1,4 @@
-## Whale of Portfolio
+# Whale of Portfolio
 
 My name is Oscar Lopez, a student at the University of Miami FinTech Bootcamp class. 
 
